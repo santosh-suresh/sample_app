@@ -1,3 +1,5 @@
+[![CircleCI](https://circleci.com/gh/santosh-suresh/sample_app/tree/master.svg?style=shield)](https://circleci.com/gh/santosh-suresh/sample_app/tree/master)
+
 # SampleApp
 
 To start your Phoenix server:
