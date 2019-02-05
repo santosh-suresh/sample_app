@@ -1,0 +1,19 @@
+<header class="bg-purple text-white py-6 border-b mb-4">
+    <div class="container flex items-center justify-between mx-auto px-8">
+        <a href="/" class="inline text-white hover:text-gray-lighter no-underline">
+            <h1 class="mb-4 md:mb-0 text-2xl">Sample App</h1>
+        </a>
+        <ul class="flex items-center list-reset text-lg">
+            <li class="ml-4">
+                <%= link("Home", to: Routes.page_path(@conn, :home), class: "inline py-4 text-white hover:text-gray-lighter no-underline") %>
+            </li>
+            <li class="ml-4">
+                <a href="" class="inline py-4 text-white hover:text-gray-lighter no-underline">Login</a>
+            </li>
+            <li class="ml-4">
+                <a href="" class="inline py-4 text-white hover:text-gray-lighter no-underline">Signup</a>
+            </li>
+
+        </ul>
+    </div>
+</header>
