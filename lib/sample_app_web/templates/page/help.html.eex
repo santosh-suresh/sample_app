@@ -1,8 +1,10 @@
-<h1>Help</h1>
-<p>
-  Get help on the Phoenix Framework at the
-  <a href="https://www.phoenixframework.org">Phoenix Framework</a>.
-  To see the original rails app visit
-  <a href="https://www.railstutorial.org/book"><em>Ruby on Rails Tutorial</em></a>
-  book.
-</p>
+<div class="mx-auto pt-8">
+  <h1>Help</h1>
+  <p class="mt-4">
+    Get help on the Phoenix Framework at the
+    <a href="https://www.phoenixframework.org">Phoenix Framework</a>.
+    To see the original rails app visit
+    <a href="https://www.railstutorial.org/book"><em>Ruby on Rails Tutorial</em></a>
+    book.
+  </p>
+</div>
